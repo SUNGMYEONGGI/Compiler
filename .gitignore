@@ -1,40 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/flex,c++
 # Edit at https://www.toptal.com/developers/gitignore?templates=flex,c++
 
-### C++ ###
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
 ### Flex ###
 
 # Build and Release Folders
@@ -60,9 +26,7 @@ bin-release/
 
 # End of https://www.toptal.com/developers/gitignore/api/flex,c++
 
-# files
-calc.tab.c
-calc.tab.h
+# files 
 lex.yy.c
 calc.y
 calc.l
