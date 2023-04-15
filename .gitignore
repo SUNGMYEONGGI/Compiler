@@ -27,7 +27,6 @@ bin-release/
 # End of https://www.toptal.com/developers/gitignore/api/flex,c++
 
 # files 
-lex.yy.c
 calc.y
 calc.l
 calc.exe
